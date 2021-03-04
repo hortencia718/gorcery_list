@@ -1,0 +1,43 @@
+body {
+    background: rgb(169, 195, 206);
+    font-family: 'Indie Flower', cursive;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(237, 25, 96);
+    /* margin-top: 5px; */
+    padding: 16px;
+}
+
+.form {
+    margin-left: 5%;
+
+}
+/* pen */
+svg {
+    color:rgb(238, 8, 8);
+    float: left;
+}
+
+input {
+    background: rgb(175, 197, 215);
+    float:left;
+    outline: 0;
+    border: 0px solid;
+    border-bottom-width: 3px;
+    border-bottom-color:rgb(24, 127, 191);
+    padding-right: 200px;
+    font-size: 20px;
+}
+
+input#one-item{
+    color:rgb(87, 58, 213)
+}
+
